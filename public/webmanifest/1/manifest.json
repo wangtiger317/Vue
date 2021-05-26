@@ -1,0 +1,24 @@
+{
+    "name": "KART CENTER MATOSINHOS",
+    "short_name": "KART CENTER MATOSINHOS",
+    "icons": [
+        {
+            "src": "/webmanifest/1/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/webmanifest/1/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/campaign/kart-center-matosinhos-oK/card",
+    "scope": "/campaign/kart-center-matosinhos-oK",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#333333",
+    "description": "You favorite recipe app",
+    "dir": "ltr",
+    "lang": "en-US"
+}
